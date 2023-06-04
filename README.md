@@ -173,7 +173,7 @@
     <a href="https://www.youtube.com/channel/UCBrfg5avo2pawrPIj2qq3vA"  target="_blank">
         <img alt="youtube account" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBrfg5avo2pawrPIj2qq3vA?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a> 
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
+    <a href="https://www.youtube.com/channel/UCBrfg5avo2pawrPIj2qq3vA"  target="_blank">
         <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCBrfg5avo2pawrPIj2qq3vA?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a> 
 </div>
