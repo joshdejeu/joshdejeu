@@ -170,7 +170,7 @@
 <!-- Begin Youtube Buttons -->
 <!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
 <div class="youtube buttons" align="center">
-    <a href="https://www.instagram.com/jit.codes/"  target="_blank">
+    <a href="https://www.youtube.com/channel/UCBrfg5avo2pawrPIj2qq3vA"  target="_blank">
         <img alt="youtube account" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBrfg5avo2pawrPIj2qq3vA?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
     </a> 
     <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w"  target="_blank">
