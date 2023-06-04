@@ -24,7 +24,7 @@
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
   <a rel="noreferrer">
-      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/Wzfc8FXL/output-onlinepngtools-95.png"/>
+      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -51,13 +51,13 @@
       <img  alt="Kotlin" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
   </a>
   <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/kgYw5NDd/sdfdfsdfssdffsd.png"/>
+      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
   </a>
   <br>
 
 
   <a rel="noreferrer">
-      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/Wzfc8FXL/output-onlinepngtools-95.png"/>
+      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img  alt="Vue" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
@@ -66,13 +66,13 @@
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
   <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/kgYw5NDd/sdfdfsdfssdffsd.png"/>
+      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
   </a>
   <br>
 
 
   <a rel="noreferrer">
-      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/Wzfc8FXL/output-onlinepngtools-95.png"/>
+      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -87,13 +87,13 @@
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a>
   <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/kgYw5NDd/sdfdfsdfssdffsd.png"/>
+      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
   </a>
   <br>
 
 
   <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/Wzfc8FXL/output-onlinepngtools-95.png"/>
+      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
@@ -126,13 +126,13 @@
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
   <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/kgYw5NDd/sdfdfsdfssdffsd.png"/>
+      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
   </a>
   <br>
 
 
   <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/Wzfc8FXL/output-onlinepngtools-95.png"/>
+      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
   </a>
   <!--<a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
       <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
@@ -160,7 +160,7 @@
       <img  alt="Android Studio" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> 
   </a>
     <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/kgYw5NDd/sdfdfsdfssdffsd.png"/>
+      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
   </a>
 </div>
 <br>
