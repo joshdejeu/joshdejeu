@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Josh Dejeu </h1>
 
-![github_cover_banner](https://i.postimg.cc/NjyYF4b6/Josh-Dejeu-2.gif)
+![github_cover_banner](https://i.postimg.cc/NMDZp9pG/Josh-Dejeu-3.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am an enthusiastic, sports-oriented software developer with expertise in all aspects of development. In addition, I occasionally create original content. My goal is to enhance people's lives by designing user-friendly applications and websites. Moreover, I have a passion for educating individuals in coding, as I strongly believe that programming has the potential to empower individuals and enable them to lead more fulfilling lives. Hence, I occasionally share videos on coding and technology. Besides my professional pursuits, I maintain an active lifestyle and regularly engage in weightlifting and powerlifting at the gym.
