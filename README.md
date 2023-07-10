@@ -3,7 +3,7 @@
 ![github_cover_banner](https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/fedd605843107efc-06/s2048x3072/17b24a024c8f3a183fc71129509240a8dc39698e.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am an enthusiastic software developer with expertise in all aspects of development. In addition, I occasionally create original content. My goal is to enhance people's lives by designing user-friendly applications and websites. Moreover, I have a passion for educating individuals in coding, as I strongly believe that programming has the potential to empower individuals and enable them to lead more fulfilling lives. Hence, I occasionally share videos on coding and technology. Besides my professional pursuits, I maintain an active lifestyle and regularly engage in weightlifting and powerlifting at the gym.
+    I am a web developer with expertise in all aspects of development. Occasionally create original content. 
 <br>
 <br>
 <div align="center">
