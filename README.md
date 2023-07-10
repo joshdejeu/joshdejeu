@@ -1,6 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Josh Dejeu </h1>
 
-![github_cover_banner](https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/fedd605843107efc-06/s2048x3072/17b24a024c8f3a183fc71129509240a8dc39698e.gif)
+<img src="https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/fedd605843107efc-06/s2048x3072/17b24a024c8f3a183fc71129509240a8dc39698e.gif" width="800" height="250"/>
+<!-- ![github_cover_banner](https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/fedd605843107efc-06/s2048x3072/17b24a024c8f3a183fc71129509240a8dc39698e.gif) -->
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a web developer with expertise in all aspects of development. Occasionally create original content. 
