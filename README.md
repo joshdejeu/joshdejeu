@@ -3,6 +3,9 @@
 <img src="https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/fedd605843107efc-06/s2048x3072/17b24a024c8f3a183fc71129509240a8dc39698e.gif" width="800" height="250"/>
 <!-- ![github_cover_banner](https://64.media.tumblr.com/8d8b72eaeb9920b7de19a4866b4c18a1/fedd605843107efc-06/s2048x3072/17b24a024c8f3a183fc71129509240a8dc39698e.gif) -->
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="2"/>
+
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a web developer with expertise in all aspects of development. Occasionally create original content. 
 <br>
@@ -13,6 +16,33 @@
 </div>
 </p>    
 <br>
+
+<!-- Statistics -->
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+![Josh Dejeu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshdejeu&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=joshdejeu&count_private=true&theme=algolia&border_radius=20)
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdejeu&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdejeu&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
+<!--  End Stats Cards -->
+
+
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
@@ -178,30 +208,6 @@
 -->
 <br>
 <!-- End Youtube Buttons -->
-
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Josh Dejeu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshdejeu&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=joshdejeu&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdejeu&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdejeu&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
 
 ---
 <!-- Begin Footer -->
