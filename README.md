@@ -7,7 +7,24 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="2"/>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a web developer with expertise in all aspects of development. Occasionally create original content. 
+    
+### 🚀 About Me
+- 💻 Full-stack developer with expertise in VueJS, Python, Apache Tomcat.
+- 🌐 Experienced in building scalable and performant web applications.
+- 🤖 Love exploring the world of machine learning and AI.
+- 📱 Mobile app enthusiast, with hands-on experience in Android Studio.
+    
+### 🔧 Tech Stack
+- Frontend: VueJS, NuxtJS, Vite, VueX, ThreeJS
+- Backend: Heroku, NodeJS, JavaScript
+- Database: MongoDB, Firebase, Google Cloud
+- DevOps: Git, NPM, Docker
+  
+### 📫 Let's Connect
+- 💼 LinkedIn: [Josh Djeu](https://www.linkedin.com/in/josh-dejeu-767557239/)
+- 🌐 Portfolio: [My Portfolio](https://portfolio-cej.pages.dev/)
+- @ Email: dejeujosh@gmail.com
+  
 <br>
 <br>
 <div align="center">
