@@ -20,13 +20,7 @@
 - 💼 LinkedIn: [Josh Djeu](https://www.linkedin.com/in/josh-dejeu-767557239/)
 - 🌐 Portfolio: [My Portfolio](https://portfolio-cej.pages.dev/)
 - @ Email: dejeujosh@gmail.com
-  
-<br>
-<br>
-<div align="center">
 
-[Email Me](mailto:dejeujosh@gmail.com)
-</div>
 </p>    
 <br>
 
