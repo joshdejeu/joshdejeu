@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Josh Dejeu </h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="2"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="1"/>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     
@@ -23,6 +23,8 @@
 
 </p>    
 <br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="1"/>
 
 <!-- Statistics -->
 
@@ -48,7 +50,7 @@
 </div>
 <!--  End Stats Cards -->
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="1"/>
 
 <!-- Languages and Tools -->
 
