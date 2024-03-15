@@ -223,12 +223,12 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.instagram.com/jit.codes/" target="_blank">
+<!--     <a href="https://www.instagram.com/jit.codes/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://i.postimg.cc/FKnMf9jC/image.png" alt="instagram" width="40px"/>
     </a>
     <a href="https://www.youtube.com/@AirMarshal/videos/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="instagram" width="40px"/>
-    </a>
+    </a> -->
     <a href="mailto:dejeujosh@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
