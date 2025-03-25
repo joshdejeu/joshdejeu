@@ -1,262 +1,33 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Josh Dejeu </h1>
+# Josh Dejeu
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="1"/>
+## About Me
+Computer Science senior passionate about software and web development. I build full-stack applications with a focus on C++, JavaScript, and frameworks like Vue.js and React.js. Based in Springfield, MO.
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    
-### 🚀 About Me
-- 💻 Full-stack developer with expertise in VueJS, Python, Apache Tomcat.
-- 🌐 Experienced in building scalable and performant web applications.
-- 🤖 Love exploring the world of machine learning and AI.
-- 📱 Mobile app enthusiast, with hands-on experience in Android Studio.
-    
-### 🔧 Tech Stack
-- Frontend: VueJS, NuxtJS, Vite, VueX, ThreeJS
-- Backend: Heroku, NodeJS, JavaScript
-- Database: MongoDB, Firebase, Google Cloud
-- DevOps: Git, NPM, Docker
-  
-### 📫 Let's Connect
-- 💼 LinkedIn: [Josh Djeu](https://www.linkedin.com/in/josh-dejeu-767557239/)
-- 🌐 Portfolio: [My Portfolio](https://portfolio-cej.pages.dev/)
-- @ Email: dejeujosh@gmail.com
+- **Email:** [dejeujosh@gmail.com](mailto:dejeujosh@gmail.com)  
+- **LinkedIn:** [Josh Dejeu](https://www.linkedin.com/in/josh-dejeu-767557239/)  
+- **Portfolio:** [joshdejeu.github.io](https://portfolio-cej.pages.dev/)  
 
-</p>    
-<br>
+## Skills
+- **Languages:** C/C++, Java, Python, JavaScript, C#  
+- **Frameworks & Tools:** Vue.js, React.js, Next.js, Node.js, Git  
+- **Databases & Cloud:** MongoDB, Cloudflare, Heroku, Azure, SQL, MariaDB  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="1"/>
-
-<!-- Statistics -->
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Josh Dejeu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshdejeu&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=joshdejeu&count_private=true&theme=algolia&border_radius=20)
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdejeu&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdejeu&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800" height="1"/>
-
-<!-- Languages and Tools -->
-
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+## Tech Stack
 <div align="center">
-  <a rel="noreferrer">
-      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-      <img  alt="C Plus Plus" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-      <img  alt="C Sharp" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="Kotlin" height="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-  </a>
-  <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
-  </a>
-  <br>
-
-
-  <a rel="noreferrer">
-      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-      <img  alt="Vue" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
-  </a>
-  <br>
-
-
-  <a rel="noreferrer">
-      <img  class="test" alt="" height="50px" width="14px" style="" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </a>
-  <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
-  </a>
-  <br>
-
-
-  <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="Firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
-  <a href="https://postman.com/" target="_blank" rel="noreferrer">
-      <img alt="Postman" height="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/> 
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img  alt="Unity" height="50px" style="padding-right:10px;filter:invert(1);" src="https://svgur.com/i/tq7.svg"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img  alt="Blender" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
-  </a>
-  <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
-  </a>
-  <br>
-
-
-  <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/KjyhHhyQ/output-onlinepngtools-96.png"/>
-  </a>
-  <!--<a href="https://www.graphql.com/" target="_blank" rel="noreferrer">
-      <img  alt="GraphQL" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-  </a>-->
-  <!--<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-      <img  alt="SQLite" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-  </a>-->
-
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-      <img  alt="Intellij" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> 
-  </a>
-  <!--<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  </a>-->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <!--<a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  </a>-->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-  </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-      <img  alt="Android Studio" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> 
-  </a>
-    <a rel="noreferrer">
-      <img  alt="" height="50px" width="14px" style="margin:20px;" src="https://i.postimg.cc/3RXcWyPC/sdffsdfsdfsd.png"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="padding-right:10px;"/>
 </div>
-<br>
-<br>
 
-
-<!-- Begin Youtube Buttons -->
-<!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- 
-<div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/channel/UCBrfg5avo2pawrPIj2qq3vA"  target="_blank">
-        <img alt="youtube account" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBrfg5avo2pawrPIj2qq3vA?color=%23E05D44&label=SUBSCRIBERS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
-    <a href="https://www.youtube.com/channel/UCBrfg5avo2pawrPIj2qq3vA"  target="_blank">
-        <img alt="youtube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCBrfg5avo2pawrPIj2qq3vA?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-    </a> 
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshdejeu&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshdejeu&layout=compact&theme=radical&border_radius=10" alt="Top Languages"/>
 </div>
--->
-<br>
-<!-- End Youtube Buttons -->
-
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-<!--     <a href="https://www.instagram.com/jit.codes/" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://i.postimg.cc/FKnMf9jC/image.png" alt="instagram" width="40px"/>
-    </a>
-    <a href="https://www.youtube.com/@AirMarshal/videos/" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="instagram" width="40px"/>
-    </a> -->
-    <a href="mailto:dejeujosh@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
-<!-- End Footer -->
-
-<!-- 
-🔗 Links 🔗
-- My Github Portfolio Page:
-https://github.com/ProgrammingGym
-- My Github README Code:
-https://raw.githubusercontent.com/Pro...
-- Youtube Cards:
-https://github.com/DenverCoder1/githu...
-- Youtube Buttons / Badges :
-https://github.com/DenverCoder1/custo...
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-- README Web App Generator 1:
-https://rahuldkjain.github.io/gh-prof...
-- README Web App Generator 2:
-https://arturssmirnovs.github.io/gith...
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
